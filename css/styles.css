@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+}
+h2.introduction{
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+img.introduction{
+    border-radius: 20px;
+
+}
+p.introduction{
+    color: blue;
+    line-height: 1.6;
+}
+    
+
